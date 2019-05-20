@@ -1,0 +1,6 @@
+1;Matematica;9
+1;Romana;10
+2;Matematica;10
+2;Romana;4
+2;Matematica;3
+2;Matematica;1

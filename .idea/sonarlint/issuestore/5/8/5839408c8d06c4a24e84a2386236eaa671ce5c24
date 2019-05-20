@@ -1,0 +1,25 @@
+
+usquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽÜæÒùÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Ksquid:S2864h"4Iterate over the "entrySet" instead of the "keySet".(©–á•
+usquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(î´ËÃûÿÿÿÿ
+usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÒ©ªùÿÿÿÿ
+isquid:S37766"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(±¾†™
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(¸ÊÏ¸ùÿÿÿÿ
+nsquid:S3776e"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ì–‰îúÿÿÿÿ
+Ksquid:S2864Z"4Iterate over the "entrySet" instead of the "keySet".(©–á•
+Vsquid:S3518O"?Make sure "nrMaterii" can't be zero before doing this division.(ï÷Ý¡
+Nsquid:S11357"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+‰squid:S13190"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¡”×˜ýÿÿÿÿ
+O
+squid:S106["9Replace this use of System.out or System.err by a logger.(þªÚ…
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Ã‰ŸÄ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(úô±Ëúÿÿÿÿ
+Ssquid:S3518L"7Make sure "i" can't be zero before doing this division.(–‚†Þþÿÿÿÿ
+Nsquid:S11351"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âŽþµùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íä¤Ï
+psquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ¤Ï·
+Ksquid:S2864:"4Iterate over the "entrySet" instead of the "keySet".(©–á•
